@@ -51,7 +51,7 @@
 4) нажать на товар "Embroidered long sleeve T-shirt"[0]
 5) выбрать размер "S"
 6) нажать на кнопку "Add to my basket"
-ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: в корзине появиться "Embroidered long sleeve T-shirt"
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: измениться иконка корзины и в корзине появиться "Embroidered long sleeve T-shirt"
 
 СЦЕНАРИЙ 8 - удаление из корзину
 1) открыть страницу  https://www.pullandbear.com/
